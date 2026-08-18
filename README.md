@@ -34,5 +34,5 @@ Detail-oriented and creative **Front-End Web Developer** with a strong foundatio
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Tools & Version Control** | Git, GitHub, VS Code, Figma, Postman |
-| **Deployment & Hosting** | Vercel, Netlify |
+| **Tools & Version Control** | Git, GitHub, VS Code, |
+| **Deployment & Hosting** | Vercel,  |
